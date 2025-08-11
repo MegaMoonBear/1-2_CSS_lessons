@@ -1,1 +1,1 @@
-# 1-2_CSS_lessons
+See index.html (and maybe other files)
